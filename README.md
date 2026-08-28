@@ -6,7 +6,7 @@ The work was primarily carried out using **Google Sheets**, with publicly availa
 
 ---
 
-## 👤 Author & Internship Details
+##  Author & Internship Details
 * **Author:** Sivani Paladugu[cite: 1]
 * **Education:** B.Tech — Computer Science & Engineering (AI & ML)[cite: 1]
 * **Organization:** Nineleaps[cite: 1]
@@ -14,7 +14,7 @@ The work was primarily carried out using **Google Sheets**, with publicly availa
 
 ---
 
-## 📌 Projects Overview
+## Projects Overview
 
 ### 01. Warehouse Capacity & Optimization Model
 A capacity planning model designed to evaluate warehouse requirements over a multi-year period[cite: 1]. The model considers inventory growth, peak demand, warehouse capacity, and safety margins to identify potential capacity requirements and risks[cite: 1].
@@ -66,7 +66,7 @@ A player analytics and optimization model focused on selecting a fantasy cricket
 
 ---
 
-## 🧠 Skills Applied
+## Skills Applied
 * Data Analysis & Data Cleaning[cite: 1]
 * Spreadsheet Modeling & Forecasting[cite: 1]
 * Scenario & Sensitivity Analysis[cite: 1]
@@ -78,7 +78,7 @@ A player analytics and optimization model focused on selecting a fantasy cricket
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 * **Structured Modeling:** Gained hands-on experience in building structured, dynamic models starting from foundational assumptions and raw datasets[cite: 1].
 * **Uncertainty & Simulation:** Learned to model risk and uncertainty using Monte Carlo probability distributions to evaluate multiple scenario outcomes[cite: 1].
 * **Decision Optimization:** Applied constraint satisfaction and optimization techniques (via OpenSolver) to drive automated, optimal decision-making[cite: 1].
@@ -86,7 +86,7 @@ A player analytics and optimization model focused on selecting a fantasy cricket
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Nineleaps-Internship-Projects/
